@@ -12,4 +12,4 @@ Feedback and contributions of any form are welcomed. Feel free also to [contact 
 At the present, development is in early stages, as this is an entirely crowd-sourced and volunteer-led project.
 
 ## Contact us
- Please feel free to contact us at this [email](a.ammar@student.maastrichtuniversity.nl)
+ Please feel free to contact us at this [email](mailto:a.ammar@student.maastrichtuniversity.nl)
